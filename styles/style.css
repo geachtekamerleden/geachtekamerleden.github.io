@@ -372,7 +372,7 @@ p {
 					.socialMedia .last {margin-right: 0px;}			
 					
 						.socialMedia a {
-							background-image: url(images/sprite.png);
+							background-image: url(../images/sprite.png);
 							background-repeat: no-repeat;
 							width: 36px;
 							height: 36px;
