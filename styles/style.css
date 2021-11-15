@@ -393,7 +393,7 @@ p {
 			}
 
 				.whileImHere h2 a {
-					background: url(images/sprite.png) 149px -94px no-repeat;
+					background: url(../images/sprite.png) 149px -94px no-repeat;
 					color: #fff;
 					text-decoration: none;
 					display: block;
@@ -513,7 +513,7 @@ p {
 							}
 		
 			#backHomeLink {
-				background: url(images/backarrow.gif) 0 0.25em no-repeat; 
+				background: url(../images/backarrow.gif) 0 0.25em no-repeat; 
 				padding: 0 0 30px 20px;
 				color: #2e91aa;
 				text-decoration: none;
@@ -528,7 +528,7 @@ p {
 			
 /*			.lightPurple #backHomeLink {
 				color: #2e91aa;
-				 background-image: url(images/backarrow-lightpurple.gif); 
+				 background-image: url(../images/backarrow-lightpurple.gif); 
 			}
 */			
 				#backHomeLink:focus span, #backHomeLink:hover span {
