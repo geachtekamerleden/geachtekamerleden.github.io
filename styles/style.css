@@ -151,13 +151,13 @@ p {
 		top: 25px;
 		width: 160px;
 		height: 190px;
-		background: url(https://mijn.nvve.nl/mijnnvve/img/logo.png) no-repeat;
-		z-index: 99
-
+		background: url(../images/logo.png) no-repeat;
+		z-index: 99;
+		border: 1px solid red;
 	}
 	
 	.lightPurple .header .headerLogo {
-		background-image: url(https://mijn.nvve.nl/mijnnvve/img/logo.png) no-repeat;
+		background-image: url(../images/logo.png) no-repeat;
 	}
 
 	.header #headerTabs {
