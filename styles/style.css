@@ -75,7 +75,6 @@ a:focus, area:focus, input:focus, select:focus, textarea:focus, button:focus { o
 body {
 	font-family: Arial, sans-serif;
 	color: #333;
-/*	line-height: 1.188em; */
 	background-color: #FFF;
 	line-height: 1.4em; 
 	font-size: 1.2em;
@@ -128,7 +127,7 @@ p {
 	margin-bottom: 1.1em;	
 }
 
-#comments p { font-style: italic; color: #333333; font-weight: 100; }
+#comments p { font-style: italic; color: #333333; font-weight: 100; font-size: 2em; }
 
 /* - header - */
 .header {
